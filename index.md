@@ -3,12 +3,6 @@ title: |
   <center>A Python Jupyter Notebook</center>  
   <center>Converted to RMarkdown</center>
   <br />
-author: |
-  <p style="float: right">Fabrício</p>
-  <br />
-date: |
-  <p style="float: right">September 9th, 2021</p>
-  <br />
 output:
   html_document:
     highlight: textmate
